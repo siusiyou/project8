@@ -1,0 +1,2 @@
+﻿  源.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\arm_neon.h(21,1): fatal error C1189: #error:  This header is specific to ARM targets
